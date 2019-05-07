@@ -35,4 +35,4 @@ while answer != 'N':
         else:
             print('Your name:', name, ', Your surname:', surname, ', Your weight:', weight, ', Your age:', years, " - You have a bad healths")
     elif answer == 'N':
-        print("Good byeeee!")
+        print("Good bye!")
